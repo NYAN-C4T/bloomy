@@ -1,0 +1,15 @@
+// reset css (YUI 3.0)
+@import "reset";
+
+// fonts
+  //lang: en
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:900,900i); // 'Playfair Display'
+@import url(https://fonts.googleapis.com/css?family=Quicksand:400,500,700); // 'Quicksand'
+  //lang: ja
+@import url(https://fonts.googleapis.com/earlyaccess/notosansjapanese.css); // 'Noto Sans Japanese'
+
+// basic setting
+@import "base";
+
+// contents
+@import "contents";
